@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "scheme": "https",
+    "hostname": "api.openweathermap.org",
+    "appID":"eb02692d0fc8cdbe1aa12a856563db0c",
+    "path":"data/2.5/weather"
+  },
+  "sit": {
+    "scheme": "https",
+    "hostname": "api.openweathermap.org",
+    "appID":"",
+    "path":"sit/data/2.5/weather"
+  }
+}
